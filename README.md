@@ -141,4 +141,4 @@ A: Keyword matching against known bullish/bearish words with price impact weight
 
 **Q: How did you handle the COVID oil price crash of 2020?**  
 A: The dataset starts from 2022 — post-COVID. The Huber loss function in GBM is also inherently robust to such outliers, penalizing large errors less aggressively than MSE.
-# Fuel
+# Fuel - AI — Fuel Price Prediction
